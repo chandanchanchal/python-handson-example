@@ -16,7 +16,7 @@ master
 master
 
 
-:email: craig@geekcomputers.co.uk.
+:email: chandanabbupur@gmail.com.
 
 master
 This script contain important functions which help reduce human workload.
